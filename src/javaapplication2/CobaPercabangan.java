@@ -80,7 +80,7 @@ System.out.print("\nNilai Anda ?" );
 nilai=scanner.nextInt();
 
 String grade = (nilai <75 ) ? "belum kompeten":"kompeten";
-System.out.println(nilai + " => "+grade);
+System.out.println(nilai + " => "+grade);;
     
     }
 }
